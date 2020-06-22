@@ -1,0 +1,1 @@
+This will serve as an introductory web design project. The purpose is to use HTML and CSS to recreate the Google.com homepage.
